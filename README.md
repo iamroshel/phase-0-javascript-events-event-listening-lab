@@ -1,4 +1,4 @@
-# JavaScript Event Listeners Lab c
+# JavaScript Event Listeners Lab c c
 
 ## Learning Goals
 
